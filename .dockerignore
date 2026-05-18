@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.git/
+.gitignore
+.DS_Store
+dist/
+build/
+*.egg-info/
+.video-build/
+*.log
+tests/
+scripts/
+HACKATHON.md
